@@ -1,18 +1,18 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hello there!</h1>
-<h2 align="center">Welcome to my profile!</h2>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">👋 Hello there!</h1>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">Welcome to my profile!</h2>
 
 <!-- Profile Picture -->
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px; padding: 10px; border: 2px solid #ddd; border-radius: 50%; display: inline-block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://avatars.githubusercontent.com/u/177360990?s=400&u=ca0f8ef342b5e4a70c2a34f4b646860f3bd8d49f&v=4" 
        alt="Profile Picture" 
        height="200" 
-       style="border-radius: 50%; border: 2px solid #ddd;" />
+       style="border-radius: 50%;"/>
 </div>
 
 <!-- Technologies & Tools Section -->
-<h2 align="center">🛠️ Technologies & Tools:</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">🛠️ Technologies & Tools:</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="100" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="Python logo" />
@@ -30,8 +30,8 @@
 </div>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 My GitHub Stats:</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">📊 My GitHub Stats:</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://github-readme-stats.vercel.app/api?username=user62926916&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
        height="150" 
        alt="GitHub stats" />
@@ -41,8 +41,8 @@
 </div>
 
 <!-- Contact Section -->
-<h2 align="center">📞 Contact Me:</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">📞 Contact Me:</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="92" height="80" alt="Discord" />
   </a>
