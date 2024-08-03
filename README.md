@@ -1,12 +1,13 @@
-# USER - A Friendly Developer and Ethical Contributor
+# USER - Développeur Convivial et Contributeur Éthique
 
 ## Description
 
-Je suis un développeur convivial et un contributeur éthique pour l'industrie de l'IA. Avec une passion pour le développement et une expertise dans plusieurs langages de programmation, je suis dédié à créer des solutions innovantes et utiles.
+Je suis un développeur passionné et un contributeur éthique dans l'industrie de l'IA. Fort d'une expertise dans divers langages de programmation, je m'efforce de créer des solutions innovantes et utiles pour améliorer la technologie et la société.
 
 ## Table des Matières
 
 - [Compétences](#compétences)
+- [Langages Favoris](#langages-favoris)
 - [Licence](#licence)
 - [Contact](#contact)
 
@@ -20,15 +21,19 @@ Je suis un développeur convivial et un contributeur éthique pour l'industrie d
 - C#
 - C++
 
-### Langages Favoris
+## Langages Favoris
 
 - Python
 - JavaScript
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Pour plus de détails, veuillez consulter le fichier [LICENSE](LICENSE).
 
 ## Contact
 
-USER - [user62926916@gmail.com]
+USER - [user62926916@gmail.com](mailto:user62926916@gmail.com)
+
+---
+
+N'hésitez pas à me contacter pour toute collaboration ou discussion sur des projets passionnants !
