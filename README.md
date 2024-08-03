@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm User</h1>
-
-###
-
-<div align="center">
-  <img src="https://www.vskills.in/certification/tutorial/wp-content/uploads/2013/05/introduction-white-hat-hacking-security.jpg" height="200" alt="White Hat Hacking Introduction" />
-</div>
-
-###
-
 <h1 align="center">✨ Hello there! Glad you found my profile! ✨</h1>
 
 ###
