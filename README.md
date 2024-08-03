@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm User</h1>
 <h1 align="center">✨ Hello there! Glad you found my profile! ✨</h1>
 
 ###
