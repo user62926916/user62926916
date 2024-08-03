@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://ingrammicrolink.com/wp-content/uploads/2016/10/HiReswhitehat.png" />
+  <img height="200" src="https://avatars.githubusercontent.com/u/177360990?s=400&u=ca0f8ef342b5e4a70c2a34f4b646860f3bd8d49f&v=4" alt="Profile Picture" />
 </div>
 
 ###
