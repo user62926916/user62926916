@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[[https://i.imgflip.com/65efzo.gif](https://ingrammicrolink.com/wp-content/uploads/2016/10/HiReswhitehat.png)](https://ingrammicrolink.com/wp-content/uploads/2016/10/HiReswhitehat.png)"  />
+  <img height="200" src="[[[https://i.imgflip.com/65efzo.gif](https://ingrammicrolink.com/wp-content/uploads/2016/10/HiReswhitehat.png)](https://ingrammicrolink.com/wp-content/uploads/2016/10/HiReswhitehat.png)](https://www.flaticon.com/free-icon/github-logo_25231)"  />
 </div>
 
 ###
